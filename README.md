@@ -1,5 +1,1 @@
-Simple Shell Project
-
-Author: Emeka Jude Okonkwo
-
-Collaborator: Justine Awunudo
+simple shell group project by Emeka Jude Okonkwo and Justine Awunudo
